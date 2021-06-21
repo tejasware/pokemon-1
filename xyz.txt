@@ -3,3 +3,6 @@ hellow
 2. git init -b main
 3. #git status : to check status 
 4. git add .
+5. commit 
+6. push 
+
