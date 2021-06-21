@@ -1,0 +1,5 @@
+hellow
+1. project file 
+2. git init -b main
+3. #git status : to check status 
+4. git add .
